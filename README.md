@@ -1,2 +1,5 @@
 # hello-world
-Ja chce zrobic zmiany mowie to ja Nikoś Dyzma
+my first repository
+and something like that
+dont be shy!
+Nie to mojsza jest najmojsza mowie to ja Nikos Dyzma
